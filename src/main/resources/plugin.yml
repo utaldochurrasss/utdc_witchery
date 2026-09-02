@@ -1,0 +1,6 @@
+name: utdc_witchery
+version: '${version}'
+
+main: org.example.utdcWitchery.mainC
+api-version: '26.2'
+load: POSTWORLD
